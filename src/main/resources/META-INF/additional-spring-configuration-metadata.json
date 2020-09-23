@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spring-boot-kafka.config.kafka.server",
+      "type": "java.lang.String",
+      "description": "Location of the Kafka server."
+    },
+    {
+      "name": "spring-boot-kafka.config.kafka.port",
+      "type": "java.lang.String",
+      "description": "Port of the Kafka server."
+    }
+  ]
+}
